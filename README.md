@@ -12,7 +12,7 @@
 
 ## 기술 스택 🛠️
 
-- **언어**: ![Go Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg) Go (Golang) 🐹
+- **언어**: ![Go Badge](https://img.shields.io/badge/Go-1.19-blue?logo=go&logoColor=white) Go (Golang)
 - **패키지**:
   - `net/http`: HTTP 요청을 보내고 응답을 받기 위해 사용.
   - `encoding/csv`: CSV 파일 작성에 사용.
